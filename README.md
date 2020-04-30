@@ -10,7 +10,7 @@ I have led workshops & published a paper on **mindfulness, burnout & resilience.
 
 I founded a **technology nonprofit** called [Techshift](techshift.org) a few years ago & I'm currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](aid.digital).
 
-I am currently searching for full-time employment, an apartment that allows pets, and the meaning of life.
+# I am currently searching for full-time employment, an apartment that allows pets, and the meaning of life.
 
 _I'm using some of the time offered by shelter-in-place to work on this website, so visit again sometime :)_ 
 
