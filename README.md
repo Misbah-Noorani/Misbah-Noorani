@@ -8,7 +8,7 @@ I've spent most of my professional life _(~ three years)_ working in **product a
 
 I have led workshops & published a paper on **mindfulness, burnout & resilience.** I think these things are usually relevant.
 
-I founded a **technology nonprofit** called [Techshift](techshift.org) a few years ago & I'm currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](aid.digital) 
+I founded a **technology nonprofit** called [Techshift](techshift.org) a few years ago & I'm currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](aid.digital).
 
 I am currently searching for full-time employment, an apartment that allows pets, and the meaning of life.
 
