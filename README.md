@@ -4,7 +4,7 @@
 
 I believe that _a better world is possible_, and product management is part of my theory of change.
 
-I have spent most of my adult life working in **product and community management** at early-stage software companies in 
+I have spent most of my professional life _(~ three years)_ working in **product and community management** at early-stage software companies in 
 San Francisco, where I currently live. 
 
 I have led workshops & published a paper on **mindfulness, burnout & resilience.**
