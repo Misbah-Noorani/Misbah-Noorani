@@ -7,9 +7,9 @@ I believe that _a better world is possible_, and product management is part of m
 I have spent most of my adult life working in **product and community management** at early-stage software companies in 
 San Francisco, where I currently live. 
 
-I have led workshops & published a scientific paper on **mindfulness, burnout & resilience.** 
+I have led workshops & published a paper on **mindfulness, burnout & resilience.**
 
-I founded a **technology nonprofit** called [Techshift](techshift.org) a few years ago & I'm currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [Aid.Digital](www.aid.digital) 
+I founded a **technology nonprofit** called [Techshift](techshift.org) a few years ago & I'm currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](aid.digital) 
 
 I am currently searching for full-time employment, an apartment that allows pets, and the meaning of life.
 
