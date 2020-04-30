@@ -1,11 +1,16 @@
 ## Welcome to my website!
 
-My name is Misbah. I believe that _a better world is possible_, and product management is part of my theory of change.
+### My name is Misbah. I'm an organizer & technologist. 
 
-I have spent most of my adult life working in **product and community management** at early stage software startups. I have also published scientific papers and led workshops on **mindfulness, burnout & resilience.** 
+I believe that _a better world is possible_, and product management is part of my theory of change.
 
-Additionally, I started a **technology nonprofit** called [techshift.org](Techshift) over the last few years (we're looking for board members!) & I am currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](Aid.Digital) 
+I have spent most of my adult life working in **product and community management** at early-stage software companies in 
+San Francisco, where I currently live. 
+
+I have also led workshops & published a scientific paper on **mindfulness, burnout & resilience.** 
+
+I started a **technology nonprofit** called [techshift.org](Techshift) over the last few years & I am currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](Aid.Digital) 
 
 
-_I'm also using the space offered by this quarantine to work on this website, so visit again sometime :)_ 
+_I'm using some of the time offered by shelter-in-place to work on this website, so visit again sometime :)_ 
 
