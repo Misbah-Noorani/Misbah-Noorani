@@ -9,8 +9,9 @@ San Francisco, where I currently live.
 
 I have also led workshops & published a scientific paper on **mindfulness, burnout & resilience.** 
 
-I started a **technology nonprofit** called [techshift.org](Techshift) over the last few years & I am currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](Aid.Digital) 
+I founded a **technology nonprofit** called [techshift.org](Techshift) over the last few years & I am currently matching volunteer software engineers & product managers with mobilizing **COVID-19 mutual aid** efforts over at [aid.digital](Aid.Digital) 
 
+I am currently searching for full-time employment, an apartment that allows pets, and the meaning of life.
 
 _I'm using some of the time offered by shelter-in-place to work on this website, so visit again sometime :)_ 
 
