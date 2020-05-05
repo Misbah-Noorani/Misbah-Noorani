@@ -1,16 +1,7 @@
+source: "https://rubygems.org"
 
-theme: jekyll-theme-dinky
+gem: "github-pages", group: :jekyll_plugins
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - jekyll-include-cache
+bundle
