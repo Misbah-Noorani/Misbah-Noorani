@@ -1,5 +1,5 @@
 
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
