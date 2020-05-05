@@ -1,5 +1,3 @@
-## Welcome to my website!
-
 ### My name is Misbah. I'm an organizer & technologist. 
 
 I believe that _a better world is possible_, and product management is part of my theory of change.
